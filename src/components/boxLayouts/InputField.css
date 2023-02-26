@@ -1,0 +1,26 @@
+.innerBox{
+    display: inline-block;
+    padding: 1rem;
+    background-color: #fff;
+    border-radius: 1.5rem;
+    position: relative;
+    box-shadow: 2px 2px 4px #000000;
+}
+.innerBox textarea{
+    background-color: #e7f9ed;
+    border-radius: 20%;
+    font-size: 1.5rem;
+    padding: 2rem;
+    border: none;
+    color: #babaa6;
+}
+.innerBox img{
+    position: absolute;
+    right: -1rem;
+    bottom: 1rem;
+}
+.microPhone{
+    position: absolute;
+    right: 30% !important;
+    top: 25% !important;
+}
